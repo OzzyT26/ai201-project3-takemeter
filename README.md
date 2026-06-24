@@ -200,7 +200,7 @@ Baseline Model
 | Macro Average | 0.93 | 0.88 | 0.90 |
 
 Fine-Tuned Model
-| Label	Precision| Recall| F1 |
+| Label | Precision| Recall| F1 |
 | Information Seeking | 0.00 | 0.00 | 0.00 |
 | Explanation| 0.00 | 0.00 | 0.00 |
 | Recommendation| 0.40 | 1.00 | 0.57 |
